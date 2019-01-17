@@ -1,3 +1,60 @@
 .arrow {
     cursor: pointer;
 }
+
+.cell {
+    display: flex;
+    align-items: center;
+}
+
+.MuiTableRow-root-43:hover {
+    background: #e7e7e7
+}
+
+.info {
+    flex-direction: column!important
+}
+
+.MuiTableCell-root-51:last-child {
+    padding: 0!important
+}
+
+.pagination {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 24px!important;
+}
+
+.nav > h4 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.app-bar {
+    margin: 0!important
+}
+
+.App-panel-4 {
+    padding: 0!important;
+}
+
+.pages >div {
+    margin: 15px 15px;
+}
+
+#root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

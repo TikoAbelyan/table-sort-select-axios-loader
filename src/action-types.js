@@ -1,1 +1,11 @@
 export const getData = 'GET_DATA';
+export const sortUp = 'SORT_UP';
+export const sortDown = 'SORT_DOWN';
+export const sortNamesUp = 'SORT_NAMES_UP';
+export const sortNamesDown = 'SORT_NAMES_DOWN';
+export const sortLastNamesUp = 'SORT_LAST_NAMES_UP';
+export const sortLastNamesDown = 'SORT_LAST_NAMES_DOWN';
+export const sortEmailUp = 'SORT_EMAIL_UP';
+export const sortEmailDown = 'SORT_EMAIL_DOWN';
+export const sortPhoneUp = 'SORT_PHONE_UP';
+export const sortPhoneDown = 'SORT_PHONE_DOWN';
